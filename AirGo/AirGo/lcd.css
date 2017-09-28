@@ -1,0 +1,18 @@
+﻿.wrapper {
+  width: 600px;
+  position:relative;
+}
+
+.light {
+  width: 3px;
+  height: 3px;
+  margin: 1px 1px;
+  text-align: center;
+  font-size: 15px;
+  float: left;
+  border-radius: 50%;
+}
+
+.off { background-color: #101010; }
+
+.on { background-color: red; }

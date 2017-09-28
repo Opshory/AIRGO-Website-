@@ -1,0 +1,14 @@
+﻿.box
+{
+background: url(search-dark.png) no-repeat 10px 6px #333;
+color: #ccc;
+width: 200px;
+padding: 6px 15px 6px 35px;
+border-radius: 0px;
+box-shadow: 0 1px 0 #ccc inset;
+transition:500ms all ease;
+}
+.box:hover
+{
+width:250px;
+}
